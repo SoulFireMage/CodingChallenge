@@ -1,0 +1,14 @@
+E:\Dropbox\CodingChallenge\ConsoleApplication\bin\Release\ConsoleApplication.exe.config
+E:\Dropbox\CodingChallenge\ConsoleApplication\bin\Release\ConsoleApplication.exe
+E:\Dropbox\CodingChallenge\ConsoleApplication\bin\Release\ConsoleApplication.pdb
+E:\Dropbox\CodingChallenge\ConsoleApplication\bin\Release\CsvHelper.dll
+E:\Dropbox\CodingChallenge\ConsoleApplication\bin\Release\nunit.framework.dll
+E:\Dropbox\CodingChallenge\ConsoleApplication\bin\Release\CsvHelper.pdb
+E:\Dropbox\CodingChallenge\ConsoleApplication\bin\Release\CsvHelper.xml
+E:\Dropbox\CodingChallenge\ConsoleApplication\bin\Release\nunit.framework.xml
+E:\Dropbox\CodingChallenge\ConsoleApplication\obj\Release\ConsoleApplication.GraphViewer.resources
+E:\Dropbox\CodingChallenge\ConsoleApplication\obj\Release\ConsoleApplication.Properties.Resources.resources
+E:\Dropbox\CodingChallenge\ConsoleApplication\obj\Release\ConsoleApplication.csproj.GenerateResource.Cache
+E:\Dropbox\CodingChallenge\ConsoleApplication\obj\Release\ConsoleApplication.exe
+E:\Dropbox\CodingChallenge\ConsoleApplication\obj\Release\ConsoleApplication.pdb
+E:\Dropbox\CodingChallenge\ConsoleApplication\obj\Release\ConsoleApplication.csprojResolveAssemblyReference.cache
